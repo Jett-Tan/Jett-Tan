@@ -47,7 +47,7 @@ Here are a few highlights from my GitHub:
 - [**Discrete Event Simulator**](https://github.com/Jett-Tan/Discrete-Event-Simulator-CS2030) – A Java-based simulation engine modeling queues, timing, and resource usage. _(Java)_
 - [**Hotel Reservation System**](https://github.com/Jett-Tan/Hotel-Reservation-System-HoRS-IS2103) – Built for an enterprise use case; covers CRUD, business logic, and user roles. _(Java EE)_
 - [**Coffee Marketplace DApp**](https://github.com/Jett-Tan/Coffee-Market-Place-Dapp) – A blockchain-enabled auction system for premium coffee. _(TypeScript, Solidity)_
-- [**ScamBusters**]() – An AI-powered scam protection platform that detects, verifies, and reports scams across channels like SMS, email, and websites.
+- [**ScamBusters**](https://github.com/Jett-Tan/ScamBusters) – An AI-powered scam protection platform that detects, verifies, and reports scams across channels like SMS, email, and websites.
   _(React Native, TypeScript, Firebase)_
 
 - [**Traffic**]() Predictor – A data engineering project that predicts traffic volume using real-time data pipelines and ML models.
